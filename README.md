@@ -1,2 +1,2 @@
-# portfolio
-my web potfolio
+# Scroll text animation 
+scroll text animation
